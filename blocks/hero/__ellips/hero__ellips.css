@@ -1,0 +1,10 @@
+.hero__ellips {
+  width: 210px;
+  height: 210px;
+  position: absolute;
+  top: 44px;
+  left: -78px;
+  background: #f94224;
+  filter: blur(150px);
+  z-index: 5;
+}

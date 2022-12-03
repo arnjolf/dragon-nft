@@ -1,0 +1,9 @@
+.artists__cards {
+  margin: 60px 0 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 304px);
+  grid-auto-rows: 336px;
+  gap: 30px;
+  position: relative;
+  z-index: 10;
+}

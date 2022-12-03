@@ -1,0 +1,9 @@
+.artists__red-ellips {
+  position: absolute;
+  background: #f94224;
+  filter: blur(200px);
+  width: 262px;
+  height: 262px;
+  top: 388px;
+  left: -38px;
+}

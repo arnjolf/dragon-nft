@@ -1,0 +1,5 @@
+.hero__transperent-poligon {
+  position: absolute;
+  margin-top: -80px;
+  z-index: 1;
+}

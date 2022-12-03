@@ -1,0 +1,9 @@
+.footer__ellips-left {
+  width: 262px;
+  height: 262px;
+  position: absolute;
+  background: #f94224;
+  filter: blur(200px);
+  bottom: 0;
+  left: -108px;
+}

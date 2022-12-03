@@ -1,0 +1,7 @@
+.about-us {
+  display: flex;
+  margin: 140px auto 0;
+  position: relative;
+  padding: 0 68px;
+  max-width: 1304px;
+}

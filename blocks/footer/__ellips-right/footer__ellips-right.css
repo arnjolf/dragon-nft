@@ -1,0 +1,9 @@
+.footer__ellips-right {
+  width: 262px;
+  height: 262px;
+  position: absolute;
+  background: #f94224;
+  filter: blur(200px);
+  right: -48px;
+  top: -189px;
+}

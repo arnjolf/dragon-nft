@@ -1,0 +1,7 @@
+.footer__social-item {
+  transition: transform 0.3s ease-out;
+}
+
+.footer__social-item:hover {
+  transform: scale(1.15);
+}

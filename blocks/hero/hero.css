@@ -1,0 +1,10 @@
+.hero {
+  margin: 40px auto 0;
+  padding: 0 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  max-width: 1304px;
+}

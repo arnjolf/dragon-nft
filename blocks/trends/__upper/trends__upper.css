@@ -1,0 +1,4 @@
+.trends__upper {
+  display: flex;
+  justify-content: space-between;
+}

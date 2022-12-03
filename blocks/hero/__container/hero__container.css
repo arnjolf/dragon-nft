@@ -1,0 +1,7 @@
+.hero__container {
+  max-width: 573px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  z-index: 10;
+}

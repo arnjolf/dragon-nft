@@ -1,0 +1,7 @@
+.hero__image {
+  width: 433px;
+  height: 574px;
+  position: absolute;
+  top: 79px;
+  z-index: 2;
+}

@@ -1,0 +1,10 @@
+.trends__ellipse-right {
+  filter: blur(200px);
+  position: absolute;
+  background: #f94224;
+  top: 812px;
+  right: -135px;
+  width: 262px;
+  height: 262px;
+  z-index: 3;
+}

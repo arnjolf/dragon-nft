@@ -1,0 +1,10 @@
+.about-us__ellipse2 {
+  position: absolute;
+  z-index: 2;
+  background: #f94224;
+  filter: blur(150px);
+  width: 210px;
+  height: 210px;
+  top: 60px;
+  left: 1177px;
+}

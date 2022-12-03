@@ -1,0 +1,6 @@
+.wrapper {
+  margin: 0px auto;
+  overflow-x: hidden;
+  position: relative;
+  z-index: 2;
+}

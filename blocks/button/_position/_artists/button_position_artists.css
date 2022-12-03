@@ -1,0 +1,10 @@
+.button_position_artists {
+  padding: 10px 30px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: center;
+  width: fit-content;
+  margin: 20px auto 0;
+}

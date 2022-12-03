@@ -1,0 +1,7 @@
+.social__link {
+  transition: opacity 0.2s linear;
+}
+
+.social__link:hover {
+  opacity: 0.7;
+}

@@ -1,0 +1,7 @@
+.button {
+  background: linear-gradient(270deg, #ff694e -10.78%, #ff3a15 116.67%);
+  border-radius: 30px;
+  border: none;
+  color: white;
+  text-align: center;
+}

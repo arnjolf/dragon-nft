@@ -1,0 +1,7 @@
+.footer__columns {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  position: relative;
+  z-index: 9;
+}
