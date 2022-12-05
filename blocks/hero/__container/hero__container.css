@@ -4,4 +4,11 @@
   flex-direction: column;
   position: relative;
   z-index: 10;
+  margin: 0 0 136px 0;
+}
+
+@media (max-width: 1024px) {
+  .hero__container {
+    max-width: 100%;
+  }
 }

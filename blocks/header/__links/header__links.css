@@ -4,5 +4,11 @@
   list-style: none;
   gap: 40px;
   margin: 0;
-  padding: 0;
+  padding: 0 0 0 131px;
+}
+
+@media (max-width: 1024px) {
+  .header__links {
+    padding: 0 0 0 65px;
+  }
 }

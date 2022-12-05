@@ -1,8 +1,6 @@
 .header__button {
-  padding: 0;
-  /*height: 100%;  !!!!!! */
+  padding: 15px 30px;
   height: 51px;
-  width: 171px;
   background: linear-gradient(270deg, #ff694e -10.78%, #ff3a15 116.67%);
   border-radius: 30px;
   border: none;
@@ -12,4 +10,12 @@
   line-height: 21px;
   letter-spacing: 0em;
   text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .header__button {
+    padding: 10px 20px;
+    font-size: 16px;
+    line-height: 18px;
+  }
 }
